@@ -9,7 +9,7 @@
       "newAppLink": "",
       
       "video": "https://.com/vids/fnf.mp4",
-      "privacy": "https://wwww.google.com",
+      "privacy": "https://raftecrafte.blogspot.com/p/privacy.html",
       
       "spancount": 1,
       
