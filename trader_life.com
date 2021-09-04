@@ -16,9 +16,40 @@
       "guide": [
         
         [
-          "Friday Night AutoBrawl",
+          "Guide 1",
           "https://nabdfy.xyz/fridaynight1/friday_content3.png",
-          "Friday Night AutoBrawl is a singleplayer vehicular combat game with perma- permadeath, meaning when you're dead, you're dead forever. No second chances.----->>>10 unique enemies to survive: Fight your way through 10 unique enemies, including a forklift with an insta-killing fork, an armoured tuk tuk with a spiked club, and a monster truck with a flaming machete.------>>>>> Fast Paced, tactical combat: Get near an enemy to throw your lance, and drive over it to pick it up again. Simple to play but deceptively difficult to master.----->>>>>>One Chance: When you die, that's it, game over, and you are completely locked out of the game, never to play again"
+          "When beginning, I would recommend placing your bed right nearby the front door of your home, as this will help cut down time later on. When you first get to your store and open it for the first time, you will notice that you'll be given a random assortment of goods to place down for sale, and I would highly recommend doing so. This should give you enough to buy a bathtub and then money to buy some more groceries. Keep in mind when placing things, that unless it is required to go into a fridge, it can be placed anywhere, shelves or not, this game seems to have no logic built in to emphasize upon placement of the items apart from the fridge. You should also place the toilet in your inventory nearby the entrance of the store for efficiency to easily reset your 'urine' meter"
+        ],
+        [
+          "Guide 2",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "Once you've nearly run out of things to sell, you can head over to the large furniture store, which can be found on the map, and you can choose to buy a bathtub here, which will reset your 'dirtiness' meter. As a sidenote, you can choose not to purchase this, because the game also has nothing written to cause any issues for your character, even if every meter is at 100. You just will not be able to run at all, which is not a huge issue. If you do buy the bathtub, I'd place it right nearby the toilet, again for efficiency"
+        ],
+        [
+          " Guide 3 ",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "Now the next step is to basically buy/sell groceries until you have enough money to purchase a fridge display. This will cost $750, and it may take a little bit of time to do this, but it is rather quick. When buying groceries, I would buy them directly from Jaber's shop and place the boxes into your car. Your starting car can hold up to roughly 10 boxes (4 on top, 6 in the back). I've found that the name of the game with anything is to buy high-price items when they're discounted, even if it's one single item, and to repeat the process. Do this for groceries.. higher priced/discounted. It will make accruing funds much faster"
+        ],
+        [
+          " Guide 4 ",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "Once you have the money for a fridge display, head over to the large furniture store again and buy one. Go back to your store and I would highly recommend placing it just nearby the front entrance, like everything else. Continue selling groceries until you have around $750-$1K in money, then head over to the meat store. Meat will be the sole thing you will sell for a while. This store consists of only a few products, but they generate very fast income. Check to see what is discounted the most, and buy one or two of them, then go to your store and place them in the fridge display for sale. Continue to repeat this back and forth trip as you gain income, and keep saving up for a second cashier, which will cost $2500. Make sure you have about $500-$600 leftover money after the $2500 second-cashier charge, to stock up on meat if needed. Also ensure that you go back home after the shop closes, and to sleep. This will pass time quickly"
+        ],
+        [
+          " Guide 5 ",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "After hiring a second cashier, income will start to flow much, much better than before. You will be effectively doubling your sales. The primary goal at this point is to save up to $3500 to buy the farm. Also, about the 'hunger' meter, you can avoid paying attention to it if you would like. This all comes down to whether or not you would like to move around quickly outside of your car, though this is highly negligible. Remember, the game has no writing to punish you outside of not being able to run"
+        ],
+        [
+          " Guide 6 ",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "Once you have finally gotten the farm, continue to sell meat, and deposit around $200-$1K, depending on how comfortable you are, on farm animals. The animals can be purchased at the 'Animal Trader' on the map. Cows will cost $500, sheep $350, and chickens will be a mere $50 a piece. Of course, cows will give the highest amount of money, and chickens the lowest. At 2200 each night you will need to go to your farm and speak to an odd person standing in a colorful tent to collect your income. It is very silly how this was designed, as it should be collected from the phone, but nonetheless, it is a stop to make or else you won't get anything, and it will not stack from my knowledge"
+        ],
+        [
+          " Guide 7 ",
+          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
+          "
+After a good while you will have thousands coming in from the farm passively, and you can essentially cease operations of your store if you want to, and purely focus on being AFK with the game open, grabbing your income at 2200, buying more animals, then going AFK again, and the income will build and build. From what I understand investing in the stocks in the game is a very late-game option and profits, but I have no knowledge how they work yet. "
         ]
       ],
       "showOnlyOpen":false,
