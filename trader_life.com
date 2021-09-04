@@ -8,7 +8,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://.com/vids/fnf.mp4",
+      "video": "https://drive.google.com/uc?id=1T55WfFkoc87M-ElMQCpH_38nW8klt9c3",
       "privacy": "https://raftecrafte.blogspot.com/p/privacy.html",
       
       "spancount": 1,
