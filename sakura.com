@@ -3,7 +3,7 @@
   "show": true, 
   "CheckR": true, 
   "com": false,
-  "published":false,
+  "published":true,
   
   
   "version": 1,
@@ -15,24 +15,39 @@
   "spancount": 1,
   "guide": [ 
      [
-          "Tip 1",
-          "https://img.youtube.com/vi/d7A6mdjduYE/maxresdefault.jpg",
-          "Welcome to this guide nighbor alpha that can help you to to progress quickly in the game Enjoy !\n\nEarphone jack can be connected and bay logger data can be transferred and saved.\n\n· If you are connected to the Internet, you can check the saved data at any time.\n· You can check the number of times you played with , the maximum shoot power. It can also compare with the national average.\n· You can read the bay code attached to the  and register and check it in the garage.\n· You can see the records that participated in the  competition.\n· You can see friends who have replaced their Friend ID.\n\nRealistic physics (NVIDIA PhysX)\n• 7 Stadiums (+1)\n• 11 Spin-Tops and over 40 different parts.\n• Special attacks\n• 4 launch cords\n• 3 Game modes\n• Online high score leaderboards\n• 26 Achievements\n• Detailed textures and 3D models, Reflections etc...\n• Should run even on low end devices!\n• And more is coming with updates (For example special attacks and more stadiums, Spin-Tops and game modes)\n• Powered by Unity game engine"
+          "Sakura School Simulator",
+          "https://i.imgur.com/Uv1Xsl0.jpg",
+          "SAKURA School Simulator is a game where you take on the life of an average student at Sakura Town high school. Located in a tiny rural town there is no end to the number of zany antics you'll come up with. Thankfully, no one dies, but if anyone gets hurt, they pass out and wake up the next day hating whoever attacked them SAKURA School Simulator is a game where you take on the life of an average student at Sakura Town high school. Located in a tiny rural town"
         ],
-        [
-          "Tip 2",
-          "https://img.youtube.com/vi/d7A6mdjduYE/maxresdefault.jpg",
-          " Tops Beys battle head to head, including dynamic \"explosion\" feature designed to bring more excitement nighbor alpha to the combat experience.\nFighting could lead to spinning tops in pieces (rates vary in ). It includes 3 layersthat summits can be customized for battle. Hundreds of possible combinations. For higher collected, and more likely combinations to win, you can build.\n\nLayer of energy\nHow does it stop\nWith the reduction when\nCollide in the battle.\n\nFORGE DISC\nAssign the center of gravity\nAnd the weight of the upper part, which causes\nDifferent reactions in the battle.\n\nPerformance TIP\nThe patterns of displacement affect nighbor alpha. -\nIf it tends to the top\nSpin in a place or cruise\nAbout \n\nAttack types\nDesigned to move quickly through the \nExplode and strike with power.\n\nTypes STAMINA\nDesigned to keep spin when it left\nUntouched. It could spin off fixed\nType of defense.\n\nTypes of Defense\nIt was designed to repel attacks and maintain\nFixed, stable position in the battle nighbor alpha.\n\nTypes of balance\nRecipes Combining attack, endurance, and\nTypes of defense include, and generally design\nElements of all three"
+     [
+          "Simulator",
+          "https://i.imgur.com/YfIjiZ1.png",
+          "SAKURA School Simulator has simple controls. With your left thumb you move your character around each scenario and your right thumb takes care of taking out specific actions by way of handy action buttons, including: attack, talk and activate your jetpack. SAKURA School Simulator has simple controls. With your left thumb you move your character around each scenario"
         ],
-        [
-          "Tip 3",
-          "https://img.youtube.com/vi/d7A6mdjduYE/maxresdefault.jpg",
-          " nighbor alphakeyword in the lead bring pleasure to the wild  explosion. Plus your opponent an \"explosion\" into pieces, resulting in a 2-point left standing player ( rates vary). The first player to win 3 points wins!\n\nEach player on  melts more on B's explosion pitcher and draws RIPCORD on  explode at the same time.\nThe first player to get 3 points wins!\n\nRING OUT FINISH\nIf you strike  your opponent explode more out of the ring or into one of the pockets.\n\nSurvivor FINISH\nIf  opponent Supreme nighbor alphakeyword has stopped spinning before you.\n\nEnd of explosion\nIf the highest   opponent breaks out in the battle, it is the end of an explosion! (Grid rates vary.)\n\nCollect and award the competition!\nPersonalize simply  with other melting tops.\n\naggregation\nYou can extend the strategy nighbor alphakeyword and tactics of combat options by increasing the merge group to explode.\n\nModify or adapt\nTry to pass on the merger has exploded, forming discs and performance tips between private summits blast fusion to change the way they fight.\n\n\nThe more  in mind the explosion you collect, the more pieces you have the customization.\n\ncompete\nDevelop a strategy when designing and selecting nighbor alphakeyword  top of each battle. Some things to think about: What types of fusion blast the tops of you and your opponent you use? What is   you fight in? Exercised. Frame. Then - LET IT RIP!."
+     [
+          "School",
+          "https://i.imgur.com/7ApATyO.jpg",
+          "Each match starts out with your character leaving home, but you can take them anywhere you wish Run all over Sakura Town as you please, talk to tons of different characters, visit their homes, and do anything you want Each match starts out with your character leaving home, but you can take them anywhere you wish"
         ],
-        [
-          "Tip 4",
-          "https://img.youtube.com/vi/d7A6mdjduYE/maxresdefault.jpg",
-          "Know your nighbor alpha\n• test the effect of the angle and the direction of its emission.\n• Learn the general characteristics and trends.\n\nBREAK in your equipment nighbor alpha\n• ripcords come tightly wrapped in their original packaging. They will work better after a few pulls (the pitcher, too).\n\nWork on your launch\nBy improving your launch technique, you can help:\n\n• Make the most powerful attacks.\n• Get on the tops to move faster.\n• Improve rotation time.\n\n1. Print this category.\n2. Collecting nighbor alpha explosion nighbor alpha\nThe competitors. 3. Determine the rounds of a match-ups.\n4. Each match takes place in nighbor alpha explosion The first player to get 3 points Victories and moves to round 2!\n5. Winners advance to round 2 To turn 3, where they struggle to nighbor alpha be crowned tournament champion !\n\nIf you want to xp fast in nighbor alpha  you should :\n\n- Choose your cambo and go for a training and custom opponent\n- If you have an attack tape  that's your cambo and you are going to want to make a combo that has literally no defense at all\n- Choose Rokvator r2 level 2\n- Choose Disk Do2 level 2\n- Choose Tb02 level 2"
+     [
+          "How to Win ?",
+          "https://i.imgur.com/zVZkOuB.jpg",
+          "Are you game for visiting one of your classmates? Go ahead. Or conversely, would you to prefer to wreck havoc in your town? That's all up to you One aspect that's particularly fun in SAKURA School Simulator is that you can completely customize your character anyway you want Are you game for visiting one of your classmates? Go ahead. Or conversely, would you to prefer to wreck havoc in your town? That's all up to you"
+        ],
+     [
+          "Enter",
+          "https://i.imgur.com/Kcz6ypj.jpg",
+          "This is one of those games where developers offer the characters, the scenarios, and the tools, and we choose how to enjoy them To start, we must create our customized character, a high school boy or girl. You have a lot of options, although to unlock most of the add-ons you must be patient and watch ads. Later down the road, you will be able to choose between a boy, a girl, and a butler cat. That is just how this town is"
+        ],
+     [
+          "Get it Now",
+          "https://i.imgur.com/dtxVaaC.jpg",
+          "SAKURA School Simulator is an excellent 'High School SIM game' that has charming graphics and tons of alternative possibilities Players can do practically anything they want within the beautiful (and wild) vicinity of Sakura Town SAKURA School Simulator is an excellent 'High School SIM game' that has charming graphics and tons of alternative possibilities"
+        ], 
+     [
+          "PLAY NOW",
+          "https://i.imgur.com/dtxVaaC.jpg",
+          "SAKURA School Simulator is an excellent 'High School SIM game' that has charming graphics and tons of alternative possibilities To start, we must create our customized character, a high school boy or girl. You have a lot of options, although to unlock most of the add-ons Are you game for visiting one of your classmates? Go ahead. Or conversely, would you to prefer to wreck havoc in your town? That's all up to you"
         ]
   ],
   
