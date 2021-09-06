@@ -9,7 +9,7 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
+  "video": "https://drive.google.com/uc?id=18TeDhlKhyZRWk99dq_7hmepiYiLqCoWD",
   "privacy": "https://raftecrafte.blogspot.com/p/privacy.html",
   
   "spancount": 1,
