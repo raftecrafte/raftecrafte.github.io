@@ -69,7 +69,7 @@
   },
   "unity": true,
   "adsunity": {
-    "unity_id": "3978659",
-    "unity_inters": "video"
+    "unity_id": "3667089",
+    "unity_inters": "Android_Interstitial"
   }
 }
