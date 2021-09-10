@@ -2,7 +2,7 @@
     
   "show": true, 
   "CheckR": true, 
-  "com": false,
+  "com": true,
   "published":true,
   
   
