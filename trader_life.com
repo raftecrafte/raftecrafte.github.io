@@ -2,8 +2,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
@@ -48,8 +48,7 @@
         [
           " Guide 7 ",
           "https://nabdfy.xyz/fridaynight1/friday_content3.png",
-          "
-After a good while you will have thousands coming in from the farm passively, and you can essentially cease operations of your store if you want to, and purely focus on being AFK with the game open, grabbing your income at 2200, buying more animals, then going AFK again, and the income will build and build. From what I understand investing in the stocks in the game is a very late-game option and profits, but I have no knowledge how they work yet. "
+          "After a good while you will have thousands coming in from the farm passively, and you can essentially cease operations of your store if you want to, and purely focus on being AFK with the game open, grabbing your income at 2200, buying more animals, then going AFK again, and the income will build and build. From what I understand investing in the stocks in the game is a very late-game option and profits, but I have no knowledge how they work yet. "
         ]
       ],
       "showOnlyOpen":false,
@@ -68,10 +67,10 @@ After a good while you will have thousands coming in from the farm passively, an
         "admb_inters": "ca-app-pub-3940256099942544/1033173712",
         "admb_native": "ca-app-pub-3940256099942544/2247696110"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
-        "unity_inters": "video"
+        "unity_id": "3978659",
+        "unity_inters": "Android_Interstitial"
       },
       
       
