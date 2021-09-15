@@ -1,7 +1,7 @@
     {
       
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       
@@ -52,7 +52,7 @@
         ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 2,
+      "NativeCount": 1,
       "fan": false,
       "snf": "mix",
       "adsfan": {
