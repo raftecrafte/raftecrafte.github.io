@@ -7,8 +7,8 @@
       
       "version": 1,
       "newAppLink": "",
-      
-      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://raftecrafte.github.io/privacy.html",
       
       "spancount": 1,
