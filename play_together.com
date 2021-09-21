@@ -7,8 +7,8 @@
       
       "version": 1,
       "newAppLink": "",
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
-      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://raftecrafte.github.io/privacy.html",
       
       "spancount": 1,
@@ -52,10 +52,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/5780336604",
-        "admb_openad": "ca-app-pub-2467024233846885/5098837993",
-        "admb_inters": "ca-app-pub-2467024233846885/8188035766",
-        "admb_native": "ca-app-pub-2467024233846885/4655984863"
+        "admb_banner": "ca-app-pub-9807264092456179/9941731442",
+        "admb_openad": "ca-app-pub-9807264092456179/7315568107",
+        "admb_inters": "ca-app-pub-9807264092456179/2157420823",
+        "admb_native": "ca-app-pub-9807264092456179/4783584168"
       },
       "unity": false,
       "adsunity": {
