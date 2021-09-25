@@ -54,11 +54,11 @@
       "showOnlyOpen":false,
       "NativeCount": 3,
       "fan": true,
-      "snf": "n",
+      "snf": "mix",
       "adsfan": {
         "fan_inters": "600787081300801_600787127967463",
         "fan_native": "600787081300801_600787134634129",
-        "fan_native_banner": "600787081300801_600787124634130"
+        "fan_native_banner": "600787081300801_607803483932494"
       },
       "admob": false,
       "adsadmb": {
