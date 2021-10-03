@@ -90,16 +90,16 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-1995919040953302/5075275939",
-        "admb_inters": "ca-app-pub-1995919040953302/8499870843",
-        "admb_native": "ca-app-pub-1995919040953302/5415376657",
-        "admb_native2": "ca-app-pub-1995919040953302/4102294987",
-        "admb_openad": "ca-app-pub-1995919040953302/6728458329"
+        "admb_banner": "ca-app-pub-9983687431904696/6030593949",
+        "admb_inters": "ca-app-pub-9983687431904696/4492961623",
+        "admb_native": "ca-app-pub-9983687431904696/4717512273",
+        "admb_native2": "ca-app-pub-9983687431904696/4717512273",
+        "admb_openad": "ca-app-pub-9983687431904696/4254461935"
       },
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
