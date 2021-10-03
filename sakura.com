@@ -59,7 +59,7 @@
     "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
     "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
   },
-  "admob": true,
+  "admob": false,
   "adsadmb": {
     "admb_banner": "ca-app-pub-1995919040953302/9492877568",
     "admb_openad": "ca-app-pub-1995919040953302/6713820925",
